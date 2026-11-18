@@ -1,7 +1,3 @@
-# hangmanGame
-jogo da forca p2p
-módulo hangman.py que implementa a lógica da forca
-=======
 # HangmanGame Anotações — `hangman.py` e `game_host.py`
 
 ## 1. `hangman.py` — regras da forca
